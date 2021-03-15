@@ -1,0 +1,4 @@
+DB name - id6639372_routine
+DB username - id6639372_dibasdebnath
+DB password - DIU12345SWE
+DB host/servername - localhost
